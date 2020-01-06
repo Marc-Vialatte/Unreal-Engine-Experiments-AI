@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Fallen",
+			"Path": "/Users/marcvialatte/Documents/GitHub Personnal Project/Unreal-Engine-Experiments/RPG Project/Source/Fallen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FallenEditor",
+			"Path": "/Users/marcvialatte/Documents/GitHub Personnal Project/Unreal-Engine-Experiments/RPG Project/Source/FallenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/marcvialatte/Documents/GitHub Personnal Project/Unreal-Engine-Experiments/RPG Project/Source/Fallen/Fallen.Build.cs",
+		"/Users/marcvialatte/Documents/GitHub Personnal Project/Unreal-Engine-Experiments/RPG Project/Source/Fallen.Target.cs",
+		"/Users/marcvialatte/Documents/GitHub Personnal Project/Unreal-Engine-Experiments/RPG Project/Source/FallenEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.1"
+}
